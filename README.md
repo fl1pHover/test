@@ -1,1 +1,3 @@
-# test
+## Test
+
+pnpm i && pnpm dev
